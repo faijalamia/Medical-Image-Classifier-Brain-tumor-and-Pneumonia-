@@ -1,4 +1,4 @@
-🧠 Medical Image Classifier
+#🧠 Medical Image Classifier
 A professional Web-based diagnostic assistance tool built with Streamlit and TensorFlow. This application allows users to upload medical images (MRI scans or Chest X-rays) and receive instant classification results using pre-trained deep learning models.
 
 🚀 Features
